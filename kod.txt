@@ -1,0 +1,47 @@
+def son_list(n, m):
+#     a = []
+#     for i in range(n, m + 1):
+#         a.append(i)
+#     return a
+#
+#
+# print(son_list(15, 25))
+#
+# def PowerA3(A, B, C, D, E):
+#     a = A ** 3
+#     b = B ** 3
+#     c = C ** 3
+#     d = D ** 3
+#     e = E ** 3
+#     return a, b, c, d, e
+#
+#
+# print(PowerA3(1,2,3,4,5))
+#
+# def maxx(a, b):
+#     if a >= b:
+#         return a
+#     else:
+#         return b
+#
+#
+# print(maxx(12, 67))
+#
+#
+# def minn(a, b):
+#     if a <= b:
+#         return a
+#     else:
+#         return b
+#
+#
+# print(minn(12, 4))
+# a = [1, 2, 3, 4, 5, 6]
+# b = [9, 8, 7, 6, 5, 4]
+#
+#
+# def add_list(n, m):
+#     return n + m
+#
+#
+# print(add_list(a, b))
